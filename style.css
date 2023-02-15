@@ -1,0 +1,26 @@
+.container{
+    width: 800pt;
+}
+.site-content{
+    width: 80%;
+    height: 200px;
+    background-color: deeppink;
+    float: left;
+}
+.site-img{
+    width: 20%;
+    height: 200px;
+    background-color: blueviolet;
+    float: left;
+}
+.profile{
+    width: 50px;
+    float: left;
+}
+.name{
+    float: left;
+}
+.rabbit{
+    width: 100px;
+    height: 100px;
+}
